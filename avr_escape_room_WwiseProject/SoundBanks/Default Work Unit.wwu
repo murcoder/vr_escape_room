@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{31D17E3B-E770-4FFA-9C20-8188BB1B9D76}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{31D17E3B-E770-4FFA-9C20-8188BB1B9D76}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="horror_escape_room" ID="{B83F39BA-D05F-4F4E-AE62-E793DA1859F7}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_stamps" ID="{CEDF97F0-57CA-4060-BF5E-7E98E176F30A}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_footsteps_ghost" ID="{B66F1BB0-76A5-4068-8823-F3FBA34A296F}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_click" ID="{81C07D08-5A9F-406A-8D4B-71D4DBBE480D}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_door_open" ID="{BBA1209A-0E33-40D6-9C82-D1FC7B73363C}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_horror_string" ID="{4BE9D737-ADCE-42CC-A36E-DCD9E4EB1684}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_door_close" ID="{70B0ECD7-DBA1-444C-AA19-AC834B02EC0A}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_horror_ambience_1_short" ID="{F79AF742-CE03-4582-954B-05BCF89C0081}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_grab_bowl_short" ID="{8E121EA3-ACFA-461A-B58B-3188360ADB8E}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_strange_laugh" ID="{D238787A-222E-4661-9444-3D93C4375899}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_slender" ID="{86E58E2E-9D04-46F5-8810-A6A47D1D2EF2}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_footsteps" ID="{ADEC6E5C-ED9F-4A5B-8EBC-D972B118DE59}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_grab_book_short" ID="{20A27ADE-28A8-4F8B-9917-94A8771CB968}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_horror_ambience_2" ID="{9EBCC461-989A-4FA2-B3B5-61358A88733D}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_whispers" ID="{E495A2CE-31E9-4FCE-A1B6-518AFD79C99D}" WorkUnitID="{819DFB66-F0A4-4E17-908F-8550016B997D}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

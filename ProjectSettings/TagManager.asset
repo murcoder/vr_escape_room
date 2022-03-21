@@ -3,7 +3,30 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - menu_location
+  - StartPosition
+  - PausePosition
+  - door1
+  - exitDoor
+  - bookTrigger
+  - book
+  - plate
+  - plateParticles
+  - ghostTrigger
+  - ghost
+  - player
+  - bookParticles
+  - bloodyPicture
+  - finishedTrigger
+  - bowl
+  - bowlTrigger
+  - bowlParticles
+  - monster
+  - flashlight
+  - flashlight_spotlight
+  - doll
+  - respawn
   layers:
   - Default
   - TransparentFX
