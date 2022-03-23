@@ -8,7 +8,7 @@ A simple VR Escape room set in an old victorian house in low poly style. Made fo
 <br>
 -> [Live Gameplay 2](https://vimeo.com/manage/videos/691513491)
 
-<img src="screenshots/screenshot_1.jpg" width="700"/>
+<img src="screenshots/screenshot_1_title.jpg" width="700"/>
 
 <br>
 <br>
