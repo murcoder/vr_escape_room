@@ -30,9 +30,16 @@ A simple VR Escape room set in an old victorian house in low poly style. Made fo
 
 # Story
 You are trapped in an old hunted house. The ghost misses two objects. 
-Bring them back and he will let you go. Maybe...
+Bring them back and he will let you go. Maybe... 
+<br>
 <img src="screenshots/screenshot_2.jpg" width="500"/>
 
+
+<br>
+<br>
+
+# Controls
+<img src="screenshots/controls.jpg" width="500"/>
 
 <br>
 <br>
