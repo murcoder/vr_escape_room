@@ -67,12 +67,12 @@ Its an complete integration of the most important VRTK (Tilia) Elements which co
 <br>
 
 ## Animations
-Some simple Animations has been done, like opening and closing doors or randomized movement of a ghost
+Some simple Animations has been created, like open and close doors and randomized movement of a ghost
 
 <br>
 
 ## Effects
-Simple SFX and Fog effects has been implemented to create a scary atmosphere
+Simple SFX, flickering lights and Fog effects have been implemented to create a scary atmosphere
 
 <img src="screenshots/screenshot_5.jpg" width="400"/>
 
