@@ -8,8 +8,7 @@ A simple VR Escape room set in an old victorian house in low poly style. Made fo
 <br>
 -> [Live Gameplay 2](https://vimeo.com/manage/videos/691513491)
 
-<img src="screenshot_1.jpg" width="700"/>
-
+<img src="screenshots/screenshot_1.jpg" width="700"/>
 
 <br>
 <br>
@@ -32,7 +31,7 @@ A simple VR Escape room set in an old victorian house in low poly style. Made fo
 # Story
 You are trapped in an old hunted house. The ghost misses two objects. 
 Bring them back and he will let you go. Maybe...
-<img src="screenshot_8.jpg" width="500"/>
+<img src="screenshots/screenshot_2.jpg" width="500"/>
 
 
 <br>
@@ -54,7 +53,7 @@ Its an complete integration of the most important VRTK (Tilia) Elements which co
 * **Teleport Target**: Placed one teleport target which can be snapped
 * **Outlines**: To make interactive objects visible
 
-<img src="screenshot_15.jpg" width="400"/>
+<img src="screenshots/screenshot_3.jpg" width="400"/>
 
 <br>
 
@@ -63,7 +62,7 @@ Its an complete integration of the most important VRTK (Tilia) Elements which co
 * **Interactables**: Interactable Objects which can be grabbed and allowing swap to other hand
 * **Snap Zone**: There a some zone where a specific object has to be placed
 
-<img src="screenshot_6.jpg" width="400"/>
+<img src="screenshots/screenshot_4.jpg" width="400"/>
 
 <br>
 
@@ -75,22 +74,22 @@ Some simple Animations has been done, like opening and closing doors or randomiz
 ## Effects
 Simple SFX and Fog effects has been implemented to create a scary atmosphere
 
-<img src="screenshot_10.jpg" width="400"/>
+<img src="screenshots/screenshot_5.jpg" width="400"/>
 
 <br>
 
 ## Triggers
 There are a couple of Triggers after some progress. Most of the time they create more tension by using sound effects or shadow
 
-<img src="screenshot_14.jpg" width="400"/>
+<img src="screenshots/screenshot_6.jpg" width="400"/>
 
 <br>
 
 ## Sound
 All sound in the game has been downloaded from [freesound.org](freesound.org), by using the tool SoundQ. After downloading the audio by using SoundQ, it has been edited by Reaper and placed in Wwise. Its a pretty nice tool, with a direct integration to unity.
 
-<img src="screenshot_soundq.jpg" width="300"/>
-<img src="screenshot_wwise.jpg" width="300"/>
+<img src="screenshots/screenshot_soundq.jpg" width="300"/>
+<img src="screenshots/screenshot_wwise.jpg" width="300"/>
 
 <br>
 
@@ -104,16 +103,16 @@ The quality and graphics has been tweaked and optimized by running on around 50f
 The following models have been made in blender.
 
 ## Main Menu book
-<img src="model_menu_book.jpg" width="500"/>
+<img src="screenshots/model_menu_book.jpg" width="500"/>
 
 ## Myserious book
-<img src="model_mystery_book.jpg" width="500"/>
+<img src="screenshots/model_mystery_book.jpg" width="500"/>
 
 ## Bowl
-<img src="model_bowl.jpg" width="500"/>
+<img src="screenshots/model_bowl.jpg" width="500"/>
 
 ## Navigation arrow
-<img src="model_arrow.jpg" width="500"/>
+<img src="screenshots/model_arrow.jpg" width="500"/>
 
 <br><br>
 
@@ -123,4 +122,4 @@ The following models have been made in blender.
 
 <br>
 
-<img src="screenshot_5.jpg" width="500"/>
+<img src="screenshots/screenshot_7.jpg" width="500"/>
