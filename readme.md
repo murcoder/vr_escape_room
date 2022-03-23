@@ -39,7 +39,7 @@ Bring them back and he will let you go. Maybe...
 <br>
 
 # Controls
-<img src="screenshots/controls.jpg" width="500"/>
+<img src="screenshots/oculus_controls.jpg" width="500"/>
 
 <br>
 <br>
@@ -69,7 +69,7 @@ Its an complete integration of the most important VRTK (Tilia) Elements which co
 * **Interactables**: Interactable Objects which can be grabbed and allowing swap to other hand
 * **Snap Zone**: There a some zone where a specific object has to be placed
 
-<img src="screenshots/screenshot_4.jpg" width="400"/>
+<img src="screenshots/screenshot_4.jpg" width="300"/>
 
 <br>
 
@@ -81,38 +81,38 @@ Some simple Animations has been created, like open and close doors and randomize
 ## Effects
 Simple SFX, flickering lights and Fog effects have been implemented to create a scary atmosphere
 
-<img src="screenshots/screenshot_5.jpg" width="400"/>
+<img src="screenshots/screenshot_5.jpg" width="300"/>
 
 <br>
 
 ## Triggers
 There are a couple of Triggers after some progress. Most of the time they create more tension by using sound effects or shadow
 
-<img src="screenshots/screenshot_6.jpg" width="400"/>
+<img src="screenshots/screenshot_6.jpg" width="300"/>
 
 <br>
 
 ## Sound
-All sound in the game has been downloaded from [freesound.org](freesound.org), by using the tool SoundQ. After downloading the audio by using SoundQ, it has been edited by Reaper and placed in Wwise. Its a pretty nice tool, with a direct integration to unity.
+All free sounds in the game are from [freesound.org](freesound.org). After downloading the files by using [SoundQ]( https://www.prosoundeffects.com/), they have been edited in [Reaper](https://www.reaper.fm) and transfered to Unity by using [Wwise](https://www.audiokinetic.com/en/products/).
 
-<img src="screenshots/screenshot_soundq.jpg" width="300"/>
 <img src="screenshots/screenshot_wwise.jpg" width="300"/>
+<img src="screenshots/screenshot_soundq.jpg" width="300"/>
 
 <br>
 
 ### Performance
-The quality and graphics has been tweaked and optimized by running on around 50fps in an Oculus Quest 1. Mosty by following the linkedIn Tutorial [Shadows and quality](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=68004706).
+The quality and graphics has been tweaked and optimized to run smoothly around 50fps on an Oculus Quest 1. Useful Tutorial [Shadows and quality](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=68004706).
 
 <br>
 <br>
 
 # Models
-The following models have been made in blender.
+The following models have been created in blender.
 
 ## Main Menu book
 <img src="screenshots/model_menu_book.jpg" width="500"/>
 
-## Myserious book
+## Mysterious book
 <img src="screenshots/model_mystery_book.jpg" width="500"/>
 
 ## Bowl
