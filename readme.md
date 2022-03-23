@@ -1,6 +1,9 @@
 # Unity3D VR Escape Room
 A simple VR Escape room set in an old victorian house in low poly style. Made for education purpose at FH St. Pölten (Austria).
 <br>
+* **Genre:** Short VR Horror game
+* **Play Area:** Room-Scale based
+* **Locomotion:** Teleport and direct movement
 
 [ i ] Optimized for Oculus Quest
 
@@ -52,11 +55,11 @@ Its a really small VR Game but it's a complete experience, with a start, pause m
 <br>
 
 ## Unity VR Integration
-Its an complete integration of the most important VRTK (Tilia) Elements which could be used as an Unity VR boilerplate. 
-* **Pseudo Body**: An virtual body which prevents crossing walls
+Integration of the most essential VRTK (Tilia) Elements.
+* **Pseudo Body**: An virtual body which solves wall collions
 * **Interactors**: Custom Hand integration for interactions
-* **Orientation Handels**: The flashlight has custom orientation handles, so it fits in the hand
-* **Movement**: Integrated teleport and direct movement
+* **Orientation Handels**: The flashlight has custom orientation handles for the right orientation in the hand
+* **Movement**: Teleportation and direct movement
 * **Teleport Target**: Placed one teleport target which can be snapped
 * **Outlines**: To make interactive objects visible
 
