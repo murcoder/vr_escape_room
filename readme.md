@@ -7,9 +7,7 @@ A simple VR Escape room set in an old victorian house in low poly style. Made fo
 
 [ i ] Optimized for Oculus Quest
 
--> [Live Gameplay 1](https://vimeo.com/manage/videos/691512317) 
-<br>
--> [Live Gameplay 2](https://vimeo.com/manage/videos/691513491)
+-> [Gameplay Video](https://vimeo.com/1021694849) 
 
 <img src="screenshots/screenshot_1_title.jpg" width="700"/>
 
